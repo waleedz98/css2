@@ -1,0 +1,111 @@
+/*body{
+    background-image:url('img/pic1.jpeg') ;
+background-attachment: fixed;
+
+background-repeat: repeat;
+background-size: 100% 100%;
+
+
+}
+*/
+
+div nav{
+   
+}
+div nav a{
+    margin: 0px 3px;
+    border-radius: 3px;
+}
+a:hover{
+    background-color: aqua;
+}
+
+#img1{
+    width:100%;
+    margin: 0 2px;
+    height:200px;
+}
+.pp{ 
+    width: 100%;
+    text-align:center;
+    margin-top: 2px;
+    font-weight: bold;
+    font-size: x-large;
+}
+#d2{
+    background-color: rgb(243, 243, 136);
+    color: black;
+    text-align: center;
+    width:300px ;
+    height: 50px;
+}
+#p2{
+    margin-top: 5px;
+    padding-top: 10px;
+}
+#d3{
+    background-color: palevioletred;
+    width: 330px;
+    height:150px;
+    margin: 5px 150px;
+    text-align: center;
+}
+#pii{
+    margin: 5px;
+    padding-top: 10px;
+}
+#p3{
+    font-style: italic;
+    width:;
+    height: 40px;
+    text-decoration: underline;
+    font-family: Brush Script MT;
+    margin:1px;
+}
+#di3
+{
+    background-color: rgb(129, 194, 237);
+    width: 300px;
+    height: 80px;
+    margin: 10px 250px;
+}
+.sub{
+    text-align: center;
+    margin: 0 120px ;
+    border-radius: 12px;
+    background-color: rgb(0, 0, 255);
+    color: white;
+    font-size: x-small;
+    padding: 6px 24px;
+}
+#out{
+    background-color: rgb(56, 5, 66);
+    width: 370px;
+    height: 180px;
+    margin: 10px 400px;
+}
+#in{
+    background-color: rgb(49, 183, 138);
+   
+    width: 350px;
+    height: 130px;
+    margin: 10px;
+}
+#d4{
+
+    background-color: rgb(192, 192, 15);
+    width: 400px;
+    height: 200px;
+    margin: 10px 500px;
+
+}
+#table
+{
+    width: 300px;
+    height: 80px;
+    padding: 0 0 0 20px;
+    position: relative;
+}
+table,th,tr,td{
+    border: 1px solid black;
+}
